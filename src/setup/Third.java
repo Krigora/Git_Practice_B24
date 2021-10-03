@@ -8,7 +8,7 @@ public class Third {
 
     }
     public  void m(int a){
-
+        System.out.println("Second method");
     }
 
     public void m(String s){
