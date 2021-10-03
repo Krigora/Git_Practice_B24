@@ -12,6 +12,7 @@ public class Third {
     }
 
     public void m(String s){
+        System.out.println("Third method");
 
 
     }
